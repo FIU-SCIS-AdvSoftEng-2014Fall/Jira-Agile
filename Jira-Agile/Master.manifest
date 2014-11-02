@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<Manifest_Data Version="1.00">
+<ProjectFile>Master.camproj</ProjectFile>
+<Video_Objects>
+<FileName>capture-6.trec</FileName>
+<FileName>capture-8.trec</FileName>
+<FileName>capture-DashBoard.trec</FileName>
+<FileName>captureProect-1.trec</FileName>
+<FileName>capture-summary.trec</FileName>
+<FileName>capture-issue.trec</FileName>
+<FileName>capture-Quick search.trec</FileName>
+<FileName>capture-create issue.trec</FileName>
+<FileName>capture-share issue.trec</FileName>
+<FileName>capture-watcher.trec</FileName>
+<FileName>capture-Demo.trec</FileName>
+<FileName>capture-kanban.trec</FileName>
+</Video_Objects>
+<Callout_Objects>
+</Callout_Objects>
+<ClipBin_Objects>
+</ClipBin_Objects>
+<TitleClip_Objects>
+</TitleClip_Objects>
